@@ -61,6 +61,10 @@ Using default django SQLite database
 - Signup: /api/signup/
 - Login: /api/login/
 
+### Swagger documentation
+
+- Swagger: /api/swagger/
+
 ## Testing
 
 - python manage.py test

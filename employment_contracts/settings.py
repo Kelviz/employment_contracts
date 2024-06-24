@@ -198,5 +198,5 @@ SWAGGER_SETTINGS = {
             'description': "Token-based authentication using the Authorization header. Enter 'Token' followed by a space and then your token.",
         },
     },
-    'USE_SESSION_AUTH': False,  # Disable Swagger's default session authentication
+    'USE_SESSION_AUTH': False,
 }
